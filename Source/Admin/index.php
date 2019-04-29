@@ -1,1 +1,2 @@
 html_entity_decode
+mencoba merge ambil data
